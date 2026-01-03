@@ -1,11 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">Meu nome é Giovana e atualmente estou na graduação de Sistemas de Informação.</p>
-
-###
-
 <h2 align="left">Some Tools I Have Used and Learned</h2>
 
 ###
